@@ -13,5 +13,6 @@
 - EventTimestamp — время события;
 - ExpId — номер эксперимента: 246 и 247 — контрольные группы, а 248 — экспериментальная.
 
-# Используемы библиотеки: pandas, numpy,scipy,matplotlib,math
+# Используемы библиотеки:
+pandas, numpy,scipy,matplotlib,math
 
