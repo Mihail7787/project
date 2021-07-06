@@ -12,3 +12,4 @@
 - number — количество посадочных мест.
 
 ## Используемые библиотеке
+pandas, plotly,seaborn,matplotlib
