@@ -45,4 +45,4 @@
 - `costs` — расходы на эту кампанию.
 
 ## Используемые библиотеки:
-pandas,numpy,matplotlib,seaborn,plotly
+**pandas,numpy,matplotlib,seaborn,plotly**
